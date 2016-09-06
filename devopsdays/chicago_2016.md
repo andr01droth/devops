@@ -50,9 +50,9 @@ My only other Open Spaces exposure involved learning about open spaces, so there
 
 #### [DAY 2](https://www.youtube.com/watch?v=Z9bY-R_pNoM):
 
-[@jilljubs](https://twitter.com/jilljubs) kicked the day off with _DevOps'ing Recruitment_.  It was good to hear about the hiring struggles from a recruiter's perspective. Many unicorns and rainbow shits in the deck.  There was a very poignant slide dealing with the perception of the recruiter process.  Main take away for me:  empathy in all interactions.
+[@jilljubs](https://twitter.com/jilljubs) kicked the day off with _DevOps'ing Recruitment_.  It was good to hear about the hiring struggles from a recruiter's perspective. Many unicorns and rainbow poos in the slide deck.  There was a very poignant slide dealing with the perception of the recruiter process.  Main take away for me:  empathy in all interactions.
 
-Next up was [@bjhaid](https://twitter.com/bjhaid) with _Lessons Learnt From "Shipping" Containers_.  Another impressive first time speaker who was also  on fire with enthusiasm and energy.  The content here was technical and but highly relatable; I went through this same Docker ecosystem learning process at my previous job.
+Next up was [@bjhaid](https://twitter.com/bjhaid) with _Lessons Learnt From "Shipping" Containers_.  Another impressive first time speaker who was also  on fire with enthusiasm and energy.  The content here was technical but highly relatable; I went through this same Docker ecosystem learning process at my previous job.
 
 [@nellshamrell](https://twitter.com/nellshamrell) gave us _Untangling Infrastructure Code Through Refactoring_.  Unfortunately, I got caught up in the hallway track and missed a sizable chunk.  When I came into the preso, we were well into the refactory.  What I did see was an awesome demo of TDD practices being applied to Infra as Code.  I look forward to watching the video.
 
