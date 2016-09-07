@@ -15,3 +15,9 @@
 "Your job is to help the user achieve their goal. Navigating an interface is never the user’s goal." ~Chris Nyffeler
 
 "I believe there’s a special place in hell for those who 'kick down and kiss up.'" ~Kim Scott
+
+ "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." ~Charles Darwin
+
+" To tell the truth is an act of love. To withhold the truth is an act of hate. Or worse, apathy." ~Gene Kim
+
+ "Any improvements made anywhere besides the bottleneck are an illusion." ~Gene Kime

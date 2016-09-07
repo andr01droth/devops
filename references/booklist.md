@@ -23,3 +23,8 @@ This is an ever growing collection of books that have been recommended to me.  I
 [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y/ref=sr_1_1?s=books&ie=UTF8&qid=1473275263&sr=1-1&keywords=turn+the+ship+around#nav-subnav) by L. David Marquet
 
 [A Practical Approach to Large-Scale Agile Development: How HP Transformed LaserJet FutureSmart Firmware (Agile Software Development Series)](https://www.amazon.com/Practical-Approach-Large-Scale-Agile-Development-ebook/dp/B00A8IYB2W/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav) by Gary Gruver, Mike Young, and Pat Fulghum
+
+[The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Lencioni-ebook/dp/B006960LQW/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav) by Patrick M. Lencioni
+
+Not a book, but interesting reads:
+[Google's Project Aristotle: Understanding Team Effectiveness](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/)
